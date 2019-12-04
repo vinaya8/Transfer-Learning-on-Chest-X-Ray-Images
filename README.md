@@ -38,3 +38,9 @@ The trained weights for best customised models in all the pre-trained techniques
 
 ## Custom Models Architecture
 The custom models architecture made from the pre-trained models can be accessed in the JSON format from the following [link](https://www.dropbox.com/sh/hv37l5snpv9rxt4/AAB5h05b8D1d4I1LRyj9qRHTa?dl=0)
+
+### Accuracies
+![result](https://github.com/vinaya8/Transfer-Learning-on-Chest-X-Ray-Images/blob/master/accuracyvsmodel.png)
+
+### ROC Curves
+![result](https://github.com/vinaya8/Transfer-Learning-on-Chest-X-Ray-Images/blob/master/roc.png)
